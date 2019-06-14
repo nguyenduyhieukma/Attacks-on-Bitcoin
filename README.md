@@ -7,10 +7,10 @@ Khi thiết kế một chuỗi khối, đặc biệt là chuỗi khối công c�
 Các tấn công được lựa chọn để trình bày bao gồm: 51%, Sybil và DoS. Đây đều là những tấn công cơ bản lên chuỗi khối chứ không riêng gì Bitcoin.
 
 ## Mục lục
-[1 - Tấn công 51%](1.ipynb)  
-[2 - Tấn công Sybil](2.ipynb)  
-[3 - Tấn công DoS](3.ipynb)  
+[1 - Tấn công 51%](https://nbviewer.jupyter.org/github/nguyenduyhieukma/Attacks-on-Bitcoin/blob/master/1.ipynb)  
+[2 - Tấn công Sybil](https://nbviewer.jupyter.org/github/nguyenduyhieukma/Attacks-on-Bitcoin/blob/master/2.ipynb)  
+[3 - Tấn công DoS](https://nbviewer.jupyter.org/github/nguyenduyhieukma/Attacks-on-Bitcoin/blob/master/3.ipynb)  
 
 ## Tài liệu tham khảo
-[1] Dữ liệu thống kê từ www.blockchain.com
-[2] Dữ liệu thống kê từ www.coin.dance
+[1] Dữ liệu thống kê từ www.blockchain.com  
+[2] Dữ liệu thống kê từ www.coin.dance  
